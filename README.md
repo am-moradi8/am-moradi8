@@ -3,7 +3,7 @@
 <div align='center'>
  <img src='./code2.png' style="width: 80%;" >
 </div>
-  ______________________________________________________________________________________________________________________________________________
+  _____________________________________________________________________________________________________________________________________________
 <div align='center'>
  <img align="right" src="https://camo.githubusercontent.com/15857bd385b12298e036391e6b9644e481eb0903f46311126cb5f571df2b3686/68747470733a2f2f77686f736172676879612e6e65746c6966792e6170702f636f6e74656e742f67697068792e676966" data-canonical-src="https://whosarghya.netlify.app/content/giphy.gif" style="width: 30%; display: inline-block;" data-target="animated-image.originalImage">
 </div>
