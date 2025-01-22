@@ -16,9 +16,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=am-moradi8&label=Profile%20views&color=FF0004&style=flat" alt="am-moradi8" /> </p>
 
 ## 💫 About Me :
-I am Amir Moradi, born in 2005.<br>I am very interested in the world of <br>programming and technology.<br>My area of ​​expertise is back-end developer.
-
+I am Amir Moradi, born in 2005.<br>I am very interested in the world of <br>programming and technology.<br>My area of ​​expertise is back-end developer.<br>
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 1920px; height: 197px; margin: 0px; width: 350px;" alt="Coding by pixeljeff on DeviantArt" jsname="kn3ccd">
+
+
 
 ## 🌐 Socials :
 <a href="https://instagram.com/am_moradi8" rel="nofollow"><img src="https://camo.githubusercontent.com/94b50d6a71e67a79d85b051d8af86ad7cc541a7304e6db4825430830e9a43383/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white" style="max-width: 100%;"></a>
