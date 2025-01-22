@@ -20,3 +20,8 @@ I am Amir Moradi, born in 2005.<br>I am very interested in the world of <br>prog
 ## 💻 Teachings:
 <img src="https://skillicons.dev/icons?i=py,django,vscode,github,git,html,linux">
 <img src="https://skillicons.dev/icons?i=ubuntu,ps,sqlite,mysql,postgresql,windows">
+
+## 📊 GitHub Stats:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=am-moradi8&show_icons=true&locale=en&layout=compact" alt="am-moradi8" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=am-moradi8&show_icons=true&locale=en" alt="am-moradi8" /></p>
