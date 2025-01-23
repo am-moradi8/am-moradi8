@@ -26,10 +26,9 @@
 </div>
 
 ## 🙋🏻‍♂️ About Me :
-
-<h4 align="right">I am Amir Moradi, born in 2005.</h4>
-<h4 align="right">I am very interested in the world of programming and technology.</h4>
-<h4 align="right">My area of ​​expertise is back-end developer.</h4>
+<h3 align="right">
+  I am Amir Moradi, born in 2005.<br>I am very interested in the world of <br>programming and technology.<br>My area of ​​expertise is back-end developer.
+</h3>
 
 <img alt="Coder GIF" height="250" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" data-canonical-src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
