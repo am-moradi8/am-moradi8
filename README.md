@@ -21,7 +21,7 @@ EAT🍴--SLEEPE🛌🏻--CODE</>--COFFEE🍵
 Somewhere like 127.0.0.1 Does not exist
 
 
-  <img src='./code3.jpg' width=100 />
+  <img  src='./code3.jpg' width=100 />
 
 
 # </🍵>
@@ -30,8 +30,9 @@ Somewhere like 127.0.0.1 Does not exist
 ## 🙋🏻‍♂️ About Me :
 I am Amir Moradi, born in 2005.<br>I am very interested in the world of <br>programming and technology.<br>My area of ​​expertise is back-end developer.
 
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 1920px; height: 197px; margin: 0px; width: 350px;" alt="Coding by pixeljeff on DeviantArt" jsname="kn3ccd">
-
+<div align="right">
+<img  src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 1920px; height: 197px; margin: 0px; width: 350px;" alt="Coding by pixeljeff on DeviantArt" jsname="kn3ccd">
+</div>
 
 
 ## 🌐 Socials :
