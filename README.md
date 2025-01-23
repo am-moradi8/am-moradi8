@@ -35,7 +35,7 @@
 
 # 🌐 Socials :
 <div align="center" >
-  <a href="https://instagram.com/am_moradi8" rel="nofollow"><img src="https://camo.githubusercontent.com/94b50d6a71e67a79d85b051d8af86ad7cc541a7304e6db4825430830e9a43383/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white" style="width: 15%;"></a>
+  <a href="https://instagram.com/am_moradi8" rel="nofollow"><img src="https://camo.githubusercontent.com/94b50d6a71e67a79d85b051d8af86ad7cc541a7304e6db4825430830e9a43383/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white" style="max-width: 100%;"></a>
   <a href="https://t.me/Am_moradi8" rel="nofollow"><img src="https://camo.githubusercontent.com/8f41682a178e57a174d0c6042e9cdb842c6329b24c34b2bf4206c25e933073a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" alt="Telegram" data-canonical-src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" style="width: 14%;"></a>
   <a href="mailto:amirmoradi319mo@gmail.com"><img src="https://camo.githubusercontent.com/3f80c5e05a6b1638fa8dae6c79d9b79626e271d8a37c560c910b0fc655f6e8a7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d456d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Email" data-canonical-src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="width: 11%;"></a>
 </div>
@@ -47,9 +47,11 @@
 </div>
 
 ## 📊 GitHub Stats :
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=am-moradi8&theme=default_repocard&hide_border=false" alt="am-moradi8" style="width: 32%;" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=am-moradi8&show_icons=true&locale=en&layout=compact" alt="am-moradi8" style="width: 31%;" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=am-moradi8&show_icons=true&locale=en" alt="am-moradi8" style="width: 31%;" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=am-moradi8&theme=default_repocard&hide_border=false" alt="am-moradi8" style="max-width: 100%;" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=am-moradi8&show_icons=true&locale=en&layout=compact" alt="am-moradi8" style="max-width: 100%;" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=am-moradi8&show_icons=true&locale=en" alt="am-moradi8" style="max-width: 100%;" /></p>
 
 
 
