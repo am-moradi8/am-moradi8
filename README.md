@@ -18,8 +18,7 @@
 
 # Programming cycle :
 <div align="center" >
-<h3>EAT🍴--SLEEPE🛌🏻--CODE</>--COFFEE🍵</h3>
-<h3>Somewhere like 127.0.0.1 Does not exist</h3>
+EAT🍴--SLEEPE🛌🏻--CODE</>--COFFEE🍵<br>Somewhere like 127.0.0.1 Does not exist
 
 # </🍵>
 
