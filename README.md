@@ -46,8 +46,8 @@
   <img src="https://skillicons.dev/icons?i=ubuntu,ps,sqlite,mysql,postgresql,windows">
 </div>
 
-## 📊 GitHub Stats :
-# 📊 GitHub Stats:
+
+# 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=am-moradi8&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=am-moradi8&theme=default_repocard&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=am-moradi8&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
