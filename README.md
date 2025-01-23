@@ -41,9 +41,9 @@ I am Amir Moradi, born in 2005.<br>I am very interested in the world of <br>prog
 <img src="https://skillicons.dev/icons?i=ubuntu,ps,sqlite,mysql,postgresql,windows">
 
 ## 📊 GitHub Stats :
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=am-moradi8&theme=default_repocard&hide_border=false" alt="am-moradi8" style="width: 30%;" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=am-moradi8&show_icons=true&locale=en&layout=compact" alt="am-moradi8" style="width: 30%;" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=am-moradi8&show_icons=true&locale=en" alt="am-moradi8" style="width: 30%;" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=am-moradi8&theme=default_repocard&hide_border=false" alt="am-moradi8" style="width: 32%;" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=am-moradi8&show_icons=true&locale=en&layout=compact" alt="am-moradi8" style="width: 32%;" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=am-moradi8&show_icons=true&locale=en" alt="am-moradi8" style="width: 32%;" /></p>
 
 
 
