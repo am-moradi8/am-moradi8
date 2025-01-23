@@ -20,6 +20,10 @@ EAT🍴--SLEEPE🛌🏻--CODE</>--COFFEE🍵
 
 Somewhere like 127.0.0.1 Does not exist
 
+
+  <img src='./code3.jpg' width=100 />
+
+
 # </🍵>
 
 
