@@ -47,15 +47,12 @@
 </div>
 
 ## 📊 GitHub Stats :
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=am-moradi8&theme=default_repocard&hide_border=false" alt="am-moradi8" style="max-width: 100%;" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=am-moradi8&show_icons=true&locale=en&layout=compact" alt="am-moradi8" style="max-width: 100%;" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=am-moradi8&show_icons=true&locale=en" alt="am-moradi8" style="max-width: 100%;" /></p>
-
-
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=am-moradi8&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=am-moradi8&theme=default_repocard&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=am-moradi8&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 <img width="100%" src="https://camo.githubusercontent.com/24c2aa6e266fb8b3df4f233929fec042cb786d0988a426a102304f09d4054e80/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303046464646266865696768743d3132302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=1607FF&amp;height=1&amp;section=footer" style="max-width: 100%;">
