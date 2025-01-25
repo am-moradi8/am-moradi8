@@ -16,6 +16,7 @@
 
 -  <h4>Humorous and attractive codes : </h4>
 - [corona-virus](https://github.com/am-moradi8/Corona-virus) 
+- [bmi-or-gui](https://github.com/am-moradi8/bmi-or-gui) 
 
 
 # Programming cycle :
