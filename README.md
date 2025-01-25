@@ -14,8 +14,8 @@
 
 - 📫 How to reach me https://t.me/Am_moradi8
 
-- Humorous and attractive codes [corona-virus](https://github.com/am-moradi8/Corona-virus)
-
+-  <h4>Humorous and attractive codes : </h4>
+- [corona-virus](https://github.com/am-moradi8/Corona-virus) 
 
 
 # Programming cycle :
