@@ -14,6 +14,8 @@
 
 - 📫 How to reach me https://t.me/Am_moradi8
 
+- Humorous and attractive codes [corona-virus](https://github.com/am-moradi8/Corona-virus)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=am-moradi8&label=Profile%20views&color=FF0004&style=flat" alt="am-moradi8" /> </p>
 
 # Programming cycle :
