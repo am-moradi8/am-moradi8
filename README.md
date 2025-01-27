@@ -21,7 +21,7 @@
 
 -  <h4>Telegram bot structures : </h4>
 - [Translate-bot](https://github.com/am-moradi8/telegram-bot) 
-
+- [Pre-registration-bot](https://github.com/am-moradi8/senario-telegram_bot) 
 
 
 # Programming cycle :
