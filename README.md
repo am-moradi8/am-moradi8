@@ -19,6 +19,9 @@
 - [bmi-or-gui](https://github.com/am-moradi8/bmi-or-gui) 
 - [logo-python](https://github.com/am-moradi8/logo-python) 
 
+-  <h4>Telegram bot structures : </h4>
+- [Translate-bot](https://github.com/am-moradi8/telegram-bot) 
+
 
 
 # Programming cycle :
