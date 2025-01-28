@@ -20,6 +20,7 @@
 - [logo-python](https://github.com/am-moradi8/logo-python) 
 - [Click_counter](https://github.com/am-moradi8/Click_counter) 
 - [Calculator](https://github.com/am-moradi8/Calculator) 
+- [Digital_clock](https://github.com/am-moradi8/Digital_clock) 
 
 
 
