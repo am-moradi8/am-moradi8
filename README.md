@@ -4,8 +4,6 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=am-moradi8&label=Profile%20views&color=FF0004&style=flat" alt="am-moradi8" /> </p>
 
-  <a href="https://t.me/Am_moradi8" rel="nofollow"><img src="https://camo.githubusercontent.com/3c0d2e439d758f0aee5622c41fa36a945d0a440e3f4cabdb83bc6cea1c87db32/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d33382669643d55494c356f6773594962705526666f726d61743d706e6726636f6c6f723d303030303030" data-canonical-src="https://img.icons8.com/?size=38&amp;id=UIL5ogsYIbpU&amp;format=png&amp;color=000000" style="max-width: 100%;">
-
 <img align="right" alt="sheikh python" src="https://camo.githubusercontent.com/c87ad6a19c7544e9b15b362bb5db638da7bb26f1d4442ed5bdf7c9e01640b751/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f68642f3036663231613136313932313931392e363363643738383764306137302e676966" data-canonical-src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" style="width: 30%; display: inline-block;" data-target="animated-image.originalImage">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
