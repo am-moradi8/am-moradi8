@@ -69,10 +69,10 @@
 <h3 align="left">Tools :</h3>
 <img src="https://skillicons.dev/icons?i=vscode,ps">
 
-System/Platform :
+<h3 align="left">System/Platform :</h3>
 <img src="https://skillicons.dev/icons?i=github,git">
 
-Database :
+<h3 align="left">Database :</h3>
 <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql,mongodb">
 
 
