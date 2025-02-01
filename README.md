@@ -60,6 +60,8 @@
 
 # Languages and Tools :
 
+Languages :
+
 <div align="center" >
   <img src="https://skillicons.dev/icons?i=py,django,vscode,github,git,html,linux">
   <img src="https://skillicons.dev/icons?i=ubuntu,ps,sqlite,mysql,postgresql,windows">
