@@ -73,7 +73,7 @@ System/Platform :
 <img src="https://skillicons.dev/icons?i=github,git">
 
 Database :
-<img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql">
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql,mongodb">
 
 
 
