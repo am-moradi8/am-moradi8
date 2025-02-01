@@ -63,6 +63,9 @@
 Languages :
 <img src="https://skillicons.dev/icons?i=py,html">
 
+Framework :
+<img src="https://skillicons.dev/icons?i=vscode">
+
 Database :
 <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql">
 
