@@ -66,11 +66,13 @@ Languages :
 Framework :
 <img src="https://skillicons.dev/icons?i=django">
 
+Tools :
+<img src="https://skillicons.dev/icons?i=vscode,ps">
+
 Database :
 <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql">
 
-Tools :
-<img src="https://skillicons.dev/icons?i=vscode,github,git,ps">
+
 
 <div align="center" >
   <img src="https://skillicons.dev/icons?i=py,django,vscode,github,git,html,linux">
