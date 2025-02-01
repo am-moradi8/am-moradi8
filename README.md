@@ -69,6 +69,9 @@ Framework :
 Tools :
 <img src="https://skillicons.dev/icons?i=vscode,ps">
 
+System/Platform :
+<img src="https://skillicons.dev/icons?i=github,git">
+
 Database :
 <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql">
 
