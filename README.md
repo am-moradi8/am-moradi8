@@ -58,7 +58,7 @@
   <a href="mailto:amirmoradi319mo@gmail.com"><img src="https://camo.githubusercontent.com/bc7c8aa0b66f1b9f26e53419d6028c35e31feee35032a31e021e8156cce1e104/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d33382669643d4358594a6a52664b6c77493926666f726d61743d706e6726636f6c6f723d303030303030" data-canonical-src="https://img.icons8.com/?size=38&amp;id=CXYJjRfKlwI9&amp;format=png&amp;color=000000" style="max-width: 100%;">
 </div>
 
-#  A List of Dev Frameworks, Tools, Operating Systems, and Databases :
+#  Languages and Tools :
 
 <h3 align="left">Languages :</h3>
 <img src="https://skillicons.dev/icons?i=py,html">
