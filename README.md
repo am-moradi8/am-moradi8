@@ -75,6 +75,8 @@
 <h3 align="left">Database :</h3>
 <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql,mongodb">
 
+<h3 align="left"> Operating System :</h3>
+<img src=https://skillicons.dev/icons?i=linux,ubuntu,windows>
 
 <h1 align="left">
   <img src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff21366eecda37b3f0c37200dfa871/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" height="30" data-canonical-src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">GitHub Stats :
