@@ -61,6 +61,8 @@
 # Languages and Tools :
 
 Languages :
+<img src="https://skillicons.dev/icons?i=py,django,html">
+
 Database :
 Tools :
 
