@@ -16,7 +16,8 @@
 
 <a href="https://github.com/am-moradi8" rel="nofollow"><img src="https://camo.githubusercontent.com/2a20aa45e6fb4779618656ad8284b4113ad07b2722b3aef297fc1cf488447d4e/68747470733a2f2f696d672e736869656c64732e696f2f656e64706f696e743f75726c3d68747470733a2f2f676973742e67697468756275736572636f6e74656e742e636f6d2f727564726162617261642f30323731633662353263663931313238393139393164306330366536393939612f7261772f72622d6769746875622e6a736f6e" alt="badge" data-canonical-src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/0271c6b52cf9112891991d0c06e6999a/raw/rb-github.json" style="max-width: 100%;">
 
-- 📫 How to reach me [Telegram](https://t.me/Am_moradi8)
+- 📫 How to reach me [Telegram](https://t.me/Am_moradi8) ,
+[email](amirmoradi319mo@gmail.com)
  
 -  <h4>Humorous and attractive codes : </h4>
 - [corona-virus](https://github.com/am-moradi8/Corona-virus) 
