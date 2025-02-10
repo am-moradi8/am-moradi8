@@ -74,6 +74,8 @@
 <h3 align="left">Framework :</h3>
 <img src="https://skillicons.dev/icons?i=django">
 
+<img align="right" height="250px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Animated Image" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 <h3 align="left">Tools :</h3>
 <img src="https://skillicons.dev/icons?i=vscode,ps">
 
