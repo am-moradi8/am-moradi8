@@ -26,10 +26,14 @@
 - [Click_counter](https://github.com/am-moradi8/Click_counter) 
 - [Calculator](https://github.com/am-moradi8/Calculator) 
 - [Digital_clock](https://github.com/am-moradi8/Digital_clock)
+<img align="right" alt="Coding" height="200px" src="https://camo.githubusercontent.com/27c3c96f9f2a8155f00d24e97d6a1984556a10aa3f7a5d27ec0e4c3100adca24/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966" data-canonical-src="https://www.lambdatest.com/resources/images/news24.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
+
+
 - [Wall_clock](https://github.com/am-moradi8/Wall_clock)
 
 
-<img align="right" alt="Coding" height="200px" src="https://camo.githubusercontent.com/27c3c96f9f2a8155f00d24e97d6a1984556a10aa3f7a5d27ec0e4c3100adca24/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966" data-canonical-src="https://www.lambdatest.com/resources/images/news24.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 
 -  <h4>Telegram bot structures : </h4>
 - [Translate_bot](https://github.com/am-moradi8/translate-bot)
