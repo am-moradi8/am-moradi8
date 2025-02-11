@@ -68,13 +68,14 @@
  <img height="40px" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"> Languages and Tools :
 </h1>
 
+<img align="right" height="250px" style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="300" height="633">
+
 <h3 align="left">Languages :</h3>
 <img src="https://skillicons.dev/icons?i=py,html">
 
 <h3 align="left">Framework :</h3>
 <img src="https://skillicons.dev/icons?i=django">
 
-<img align="right" height="250px" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif">
 
 <h3 align="left">Tools :</h3>
 <img src="https://skillicons.dev/icons?i=vscode,ps">
