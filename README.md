@@ -46,16 +46,6 @@
 - [Pre-registration_bot](https://github.com/am-moradi8/Pre-registration_bot)
 - [Personal-accountant_bot](https://github.com/am-moradi8/Personal-accountant_bot)
 
-
-# Programming cycle :
-<h4 align="center">EAT🍴--SLEEPE🛌🏻--CODE</>--COFFEE🍵<br>Somewhere like 127.0.0.1 Does not exist</h4>
-
-<div align="center" >
- <img height="200px" src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkyODk2MTUsIm5iZiI6MTczOTI4OTMxNSwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjExVDE1NTUxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU2ZDBhN2QzNzMwNjljZjY1N2U1MjE4OGIxZGI3MjgyM2I5MDA5MTI3YWQyMDY0Mzg1N2Y4YmZhZjgzNjUzMzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.a6DEvf_dbzcvV1r4kq3EYQamyohb3FHUwwq9iuBEu-E" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-</div>
-
-</div>
-
 ##  About Me :
 <h3 align="right">
   I am Amir Moradi, born in 2005.<br>I am very interested in the world of <br>programming and technology.<br>My area of ​​expertise is back-end developer.
