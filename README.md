@@ -74,7 +74,7 @@
 <h3 align="left">Framework :</h3>
 <img src="https://skillicons.dev/icons?i=django">
 
-<img align="right" height="250px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Animated Image" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" height="250px" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif">
 
 <h3 align="left">Tools :</h3>
 <img src="https://skillicons.dev/icons?i=vscode,ps">
