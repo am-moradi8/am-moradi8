@@ -18,8 +18,11 @@
 
 - 📫 How to reach me [Telegram](https://t.me/Am_moradi8) ,
 [email](mailto:amirmoradi319mo@gmail.com)
+
+<h3 align="left">
+ <img height="40px" src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> Humorous and attractive codes :
+</h3>
  
--  <h4>Humorous and attractive codes : </h4>
 - [corona-virus](https://github.com/am-moradi8/Corona-virus) 
 - [Body-BMI-calculation](https://github.com/am-moradi8/bmi-or-gui) 
 - [logo-python](https://github.com/am-moradi8/logo-python) 
@@ -34,8 +37,10 @@
 
 
 
+<h3 align="left">
+  <img height="40px" src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> Telegram bot structures :
+</h3>
 
--  <h4>Telegram bot structures : </h4>
 - [Translate_bot](https://github.com/am-moradi8/translate-bot)
 - [Pre-registration_bot](https://github.com/am-moradi8/Pre-registration_bot)
 - [Personal-accountant_bot](https://github.com/am-moradi8/Personal-accountant_bot)
