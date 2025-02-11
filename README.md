@@ -66,7 +66,9 @@
   <a href="mailto:amirmoradi319mo@gmail.com"><img src="https://camo.githubusercontent.com/808db200e261840d501dc40e6cd39bf1b7ac9f577ae265f189f102c467c77c3a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d53656e642532304d61696c2d626c61636b3f636f6c6f723d303037454336266c6162656c436f6c6f723d353535353535266c6f676f3d676d61696c266c6f676f436f6c6f723d663566376665" alt="Gmail" data-canonical-src="https://img.shields.io/badge/%20-Send%20Mail-black?color=007EC6&amp;labelColor=555555&amp;logo=gmail&amp;logoColor=f5f7fe" style="max-width: 100%;">
 </div>
 
-#  Languages and Tools :
+<h1 align="left">
+ <img height="40px" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"> Languages and Tools :
+</h1>
 
 <h3 align="left">Languages :</h3>
 <img src="https://skillicons.dev/icons?i=py,html">
@@ -89,7 +91,7 @@
 <img src=https://skillicons.dev/icons?i=linux,ubuntu,windows>
 
 <h1 align="left">
-  <img src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff21366eecda37b3f0c37200dfa871/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" height="30" data-canonical-src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">GitHub Stats :
+  <img height="40px" src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff21366eecda37b3f0c37200dfa871/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" height="30" data-canonical-src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">GitHub Stats :
 </h1>
 
 ![](https://github-readme-stats.vercel.app/api?username=am-moradi8&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
