@@ -80,7 +80,7 @@
 <img src="https://skillicons.dev/icons?i=py,html">
 
 <h3 align="left">Framework :</h3>
-<img src="https://skillicons.dev/icons?i=django"
+<img src="https://skillicons.dev/icons?i=django">
 
 <h3 align="left">Tools :</h3>
 <img src="https://skillicons.dev/icons?i=vscode,ps">
