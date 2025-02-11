@@ -55,7 +55,7 @@
 
 </div>
 
-## 🙋🏻‍♂️ About Me :
+##  About Me :
 <h3 align="right">
   I am Amir Moradi, born in 2005.<br>I am very interested in the world of <br>programming and technology.<br>My area of ​​expertise is back-end developer.
 </h3>
