@@ -29,12 +29,10 @@
 - [Click_counter](https://github.com/am-moradi8/Click_counter) 
 - [Calculator](https://github.com/am-moradi8/Calculator) 
 - [Digital_clock](https://github.com/am-moradi8/Digital_clock)
-
 <img align="right" height="150px" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-
-
 - [Wall_clock](https://github.com/am-moradi8/Wall_clock)
+- [happy-valentine🎉](https://github.com/am-moradi8/happy-valentine)
 
 
 
