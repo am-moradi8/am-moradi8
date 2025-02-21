@@ -76,3 +76,26 @@
 
 <h3 align="left">System/Platform :</h3>
 <img src="https://skillicons.dev/icons?i=github,git">
+
+<img align="right" height="250px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Animated Image" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
+<h3 align="left">Database :</h3>
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql,mongodb">
+
+<h3 align="left"> Operating System :</h3>
+<img src=https://skillicons.dev/icons?i=linux,ubuntu,windows>
+
+<h1 align="left">
+  <img height="40px" src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff21366eecda37b3f0c37200dfa871/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" height="30" data-canonical-src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">GitHub Stats :
+</h1>
+
+![](https://github-readme-stats.vercel.app/api?username=am-moradi8&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=am-moradi8&theme=one_dark_pro&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=am-moradi8&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<img src="https://camo.githubusercontent.com/ff1d4eb768b74fa335491dd8a7e87d95017665c1570e5a8828fddfdb728da450/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=100&amp;section=footer" style="max-width: 100%;">
