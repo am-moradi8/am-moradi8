@@ -67,7 +67,6 @@
 
 <h3 align="left">Languages :</h3>
 <img src="https://skillicons.dev/icons?i=py,html">
-
 <h3 align="left">Framework :</h3>
 <img src="https://skillicons.dev/icons?i=django">
 
