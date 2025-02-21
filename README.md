@@ -1,101 +1,26 @@
-<img src="https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif" alt="Seeking Junior Developer Roles" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-<h1 align="center">Hi 👋, I'm Amir Moradi</h1>
-<h3 align="center">A passionate Backend developer from iran</h3>
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=am-moradi8&label=Profile%20views&color=FF0004&style=flat" alt="am-moradi8" /> </p>
-
-
-
-<img  height="200px"  align="right" alt="sheikh python" src="https://camo.githubusercontent.com/c87ad6a19c7544e9b15b362bb5db638da7bb26f1d4442ed5bdf7c9e01640b751/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f68642f3036663231613136313932313931392e363363643738383764306137302e676966" data-canonical-src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" style="max_width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on Telegram bot and Django
-
-- 👨‍💻 All of my projects are available at
-
-<a href="https://github.com/am-moradi8" rel="nofollow"><img src="https://camo.githubusercontent.com/2a20aa45e6fb4779618656ad8284b4113ad07b2722b3aef297fc1cf488447d4e/68747470733a2f2f696d672e736869656c64732e696f2f656e64706f696e743f75726c3d68747470733a2f2f676973742e67697468756275736572636f6e74656e742e636f6d2f727564726162617261642f30323731633662353263663931313238393139393164306330366536393939612f7261772f72622d6769746875622e6a736f6e" alt="badge" data-canonical-src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/0271c6b52cf9112891991d0c06e6999a/raw/rb-github.json" style="max-width: 100%;">
-
-- 📫 How to reach me [Telegram](https://t.me/Am_moradi8) ,
-[email](mailto:amirmoradi319mo@gmail.com)
-
-<h3 align="left">
- <img height="40px" src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> Humorous and attractive codes :
-</h3>
- 
-- [corona-virus](https://github.com/am-moradi8/Corona-virus) 
-- [Body-BMI-calculation](https://github.com/am-moradi8/bmi-or-gui) 
-- [logo-python](https://github.com/am-moradi8/logo-python) 
-- [Click_counter](https://github.com/am-moradi8/Click_counter) 
-- [Calculator](https://github.com/am-moradi8/Calculator) 
-- [Digital_clock](https://github.com/am-moradi8/Digital_clock)
-<img align="right" height="150px" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-
-- [Wall_clock](https://github.com/am-moradi8/Wall_clock)
-- [happy-valentine🎉](https://github.com/am-moradi8/happy-valentine)
-- [Country-details](https://github.com/am-moradi8/Country-details)
-
-
-
-<h3 align="left">
-  <img height="40px" src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> Telegram bot structures :
-</h3>
-
-- [Translate_bot](https://github.com/am-moradi8/translate-bot)
-- [Pre-registration_bot](https://github.com/am-moradi8/Pre-registration_bot)
-- [Personal-accountant_bot](https://github.com/am-moradi8/Personal-accountant_bot)
-
-##  About Me :
-<h3 align="right">
-  I am Amir Moradi, born in 2005.<br>I am very interested in the world of <br>programming and technology.<br>My area of ​​expertise is back-end developer.
-</h3>
-
-<img alt="Coder GIF" height="250" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" data-canonical-src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-
-# 🌐 Socials :
-<div align="center" >
- <a href="https://instagram.com/am_moradi8" rel="nofollow"><img src="https://camo.githubusercontent.com/03acd7eddfb51194c47472752ee374c1e144b2c93a9479b423adb679004c21dc/68747470733a2f2f696d672e736869656c64732e696f2f656e64706f696e743f75726c3d68747470733a2f2f676973742e67697468756275736572636f6e74656e742e636f6d2f727564726162617261642f30663764396133396262656531356133326431313832363639623335396464312f7261772f72622d696e7374616772616d2e6a736f6e" alt="badge" data-canonical-src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/0f7d9a39bbee15a32d1182669b359dd1/raw/rb-instagram.json" style="max-width: 100%;">
-<a href="https://t.me/Am_moradi8" rel="nofollow"><img src="https://camo.githubusercontent.com/3d97a0922ff1fc220f25f8b7868cafdbabf4292800cb2165d804a06efb563d9d/68747470733a2f2f696d672e736869656c64732e696f2f656e64706f696e743f75726c3d68747470733a2f2f676973742e67697468756275736572636f6e74656e742e636f6d2f727564726162617261642f30633338373839643565653439336132323466373032626462623938626237662f7261772f72622d74656c656772616d2e6a736f6e" alt="badge" data-canonical-src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/0c38789d5ee493a224f702bdbb98bb7f/raw/rb-telegram.json" style="max-width: 100%;">
-  <a href="mailto:amirmoradi319mo@gmail.com"><img src="https://camo.githubusercontent.com/808db200e261840d501dc40e6cd39bf1b7ac9f577ae265f189f102c467c77c3a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d53656e642532304d61696c2d626c61636b3f636f6c6f723d303037454336266c6162656c436f6c6f723d353535353535266c6f676f3d676d61696c266c6f676f436f6c6f723d663566376665" alt="Gmail" data-canonical-src="https://img.shields.io/badge/%20-Send%20Mail-black?color=007EC6&amp;labelColor=555555&amp;logo=gmail&amp;logoColor=f5f7fe" style="max-width: 100%;">
+<div align='center'>
+  <img src='./image.png' alt='image' width='250px' />
 </div>
+# 💫 About Me:
+I am a novice programmer...<br>👨🏻‍💻.I am currently learning Django and network security<br>I am very interested in Django programming language<br>⚡️.I hope I had the necessary energy to learn other programming languages
 
-<h1 align="left">
- <img height="40px" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"> Languages and Tools :
-</h1>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width='450px'  data-target="animated-image.originalImage">
 
-<img align="right" height="300px" src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkyODk2MTUsIm5iZiI6MTczOTI4OTMxNSwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjExVDE1NTUxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU2ZDBhN2QzNzMwNjljZjY1N2U1MjE4OGIxZGI3MjgyM2I5MDA5MTI3YWQyMDY0Mzg1N2Y4YmZhZjgzNjUzMzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.a6DEvf_dbzcvV1r4kq3EYQamyohb3FHUwwq9iuBEu-E" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+## 🌐 Socials:
+<a href="https://instagram.com/am_moradi8" rel="nofollow"><img src="https://camo.githubusercontent.com/94b50d6a71e67a79d85b051d8af86ad7cc541a7304e6db4825430830e9a43383/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://t.me/Am_moradi8" rel="nofollow"><img src="https://camo.githubusercontent.com/8f41682a178e57a174d0c6042e9cdb842c6329b24c34b2bf4206c25e933073a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" alt="Telegram" data-canonical-src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" style="max-width: 100%;"></a>
 
-<h3 align="left">Languages :</h3>
-<img src="https://skillicons.dev/icons?i=py,html">
+# 💻 Teachings:
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/python-icon.svg" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e65f8a131aec32c8038012cbd89c65dbce110c66227bef4bf0b0e23ffe0f3ad8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646a616e676f2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/e65f8a131aec32c8038012cbd89c65dbce110c66227bef4bf0b0e23ffe0f3ad8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646a616e676f2d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/django-icon.svg" style="max-width: 100%;"></a>
 
-<h3 align="left">Framework :</h3>
-<img src="https://skillicons.dev/icons?i=django">
+<img src='https://skillicons.dev/icons?i=html,ps&perline=3' />
 
-<h3 align="left">Tools :</h3>
-<img src="https://skillicons.dev/icons?i=vscode,ps">
 
-<h3 align="left">System/Platform :</h3>
-<img src="https://skillicons.dev/icons?i=github,git">
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Amirmoradi8&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Amirmoradi8&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amirmoradi8&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<img align="right" height="250px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Animated Image" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-
-<h3 align="left">Database :</h3>
-<img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql,mongodb">
-
-<h3 align="left"> Operating System :</h3>
-<img src=https://skillicons.dev/icons?i=linux,ubuntu,windows>
-
-<h1 align="left">
-  <img height="40px" src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff21366eecda37b3f0c37200dfa871/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" height="30" data-canonical-src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">GitHub Stats :
-</h1>
-
-![](https://github-readme-stats.vercel.app/api?username=am-moradi8&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=am-moradi8&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=am-moradi8&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-<img src="https://camo.githubusercontent.com/ff1d4eb768b74fa335491dd8a7e87d95017665c1570e5a8828fddfdb728da450/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=100&amp;section=footer" style="max-width: 100%;">
