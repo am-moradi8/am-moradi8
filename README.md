@@ -49,3 +49,30 @@
 <h3 align="right">
   I am Amir Moradi, born in 2005.<br>I am very interested in the world of <br>programming and technology.<br>My area of ​​expertise is back-end developer.
 </h3>
+
+<img alt="Coder GIF" height="250" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" data-canonical-src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
+# 🌐 Socials :
+<div align="center" >
+ <a href="https://instagram.com/am_moradi8" rel="nofollow"><img src="https://camo.githubusercontent.com/03acd7eddfb51194c47472752ee374c1e144b2c93a9479b423adb679004c21dc/68747470733a2f2f696d672e736869656c64732e696f2f656e64706f696e743f75726c3d68747470733a2f2f676973742e67697468756275736572636f6e74656e742e636f6d2f727564726162617261642f30663764396133396262656531356133326431313832363639623335396464312f7261772f72622d696e7374616772616d2e6a736f6e" alt="badge" data-canonical-src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/0f7d9a39bbee15a32d1182669b359dd1/raw/rb-instagram.json" style="max-width: 100%;">
+<a href="https://t.me/Am_moradi8" rel="nofollow"><img src="https://camo.githubusercontent.com/3d97a0922ff1fc220f25f8b7868cafdbabf4292800cb2165d804a06efb563d9d/68747470733a2f2f696d672e736869656c64732e696f2f656e64706f696e743f75726c3d68747470733a2f2f676973742e67697468756275736572636f6e74656e742e636f6d2f727564726162617261642f30633338373839643565653439336132323466373032626462623938626237662f7261772f72622d74656c656772616d2e6a736f6e" alt="badge" data-canonical-src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/0c38789d5ee493a224f702bdbb98bb7f/raw/rb-telegram.json" style="max-width: 100%;">
+  <a href="mailto:amirmoradi319mo@gmail.com"><img src="https://camo.githubusercontent.com/808db200e261840d501dc40e6cd39bf1b7ac9f577ae265f189f102c467c77c3a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d53656e642532304d61696c2d626c61636b3f636f6c6f723d303037454336266c6162656c436f6c6f723d353535353535266c6f676f3d676d61696c266c6f676f436f6c6f723d663566376665" alt="Gmail" data-canonical-src="https://img.shields.io/badge/%20-Send%20Mail-black?color=007EC6&amp;labelColor=555555&amp;logo=gmail&amp;logoColor=f5f7fe" style="max-width: 100%;">
+</div>
+
+<h1 align="left">
+ <img height="40px" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"> Languages and Tools :
+</h1>
+
+<img align="right" height="300px" src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkyODk2MTUsIm5iZiI6MTczOTI4OTMxNSwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjExVDE1NTUxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU2ZDBhN2QzNzMwNjljZjY1N2U1MjE4OGIxZGI3MjgyM2I5MDA5MTI3YWQyMDY0Mzg1N2Y4YmZhZjgzNjUzMzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.a6DEvf_dbzcvV1r4kq3EYQamyohb3FHUwwq9iuBEu-E" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
+<h3 align="left">Languages :</h3>
+<img src="https://skillicons.dev/icons?i=py,html">
+
+<h3 align="left">Framework :</h3>
+<img src="https://skillicons.dev/icons?i=django">
+
+<h3 align="left">Tools :</h3>
+<img src="https://skillicons.dev/icons?i=vscode,ps">
+
+<h3 align="left">System/Platform :</h3>
+<img src="https://skillicons.dev/icons?i=github,git">
