@@ -44,7 +44,7 @@
 - [Translate_bot](https://github.com/am-moradi8/translate-bot)
 - [Pre-registration_bot](https://github.com/am-moradi8/Pre-registration_bot)
 - [Personal-accountant_bot](https://github.com/am-moradi8/Personal-accountant_bot)
-- [Census-bot](https://github.com/am-moradi8/Survey-bot)
+- [Survey-bot](https://github.com/am-moradi8/Survey-bot)
 
 ##  About Me :
 <h3 align="right">
