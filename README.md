@@ -64,26 +64,41 @@
  <img height="40px" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"> Languages and Tools :
 </h1>
 
-<img align="right" height="300px" src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkyODk2MTUsIm5iZiI6MTczOTI4OTMxNSwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjExVDE1NTUxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU2ZDBhN2QzNzMwNjljZjY1N2U1MjE4OGIxZGI3MjgyM2I5MDA5MTI3YWQyMDY0Mzg1N2Y4YmZhZjgzNjUzMzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.a6DEvf_dbzcvV1r4kq3EYQamyohb3FHUwwq9iuBEu-E" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+#### Programming Languages
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-<h3 align="left">Languages :</h3>
-<img src="https://skillicons.dev/icons?i=py,html">
-<h3 align="left">Framework :</h3>
-<img src="https://skillicons.dev/icons?i=django">
+#### Web Frameworks
+- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-<h3 align="left">Tools :</h3>
-<img src="https://skillicons.dev/icons?i=vscode,ps">
+#### Version Control
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-<h3 align="left">System/Platform :</h3>
-<img src="https://skillicons.dev/icons?i=github,git">
+#### Databases
+- ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<img align="right" height="250px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Animated Image" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+#### Design Tools
+- ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black)
 
-<h3 align="left">Database :</h3>
-<img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql,mongodb">
+#### Development Tools
+- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+- ![Cisco](https://img.shields.io/badge/Cisco-000000?style=for-the-badge&logo=cisco&logoColor=white)
 
-<h3 align="left"> Operating System :</h3>
-<img src=https://skillicons.dev/icons?i=linux,ubuntu,windows>
+#### Chatbots
+- ![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-0088cc?style=for-the-badge&logo=telegram&logoColor=white)
+
+#### Networking
+- ![Network+](https://img.shields.io/badge/Network+-000000?style=for-the-badge&logo=comptia&logoColor=white)
+- ![CCNA](https://img.shields.io/badge/CCNA-000000?style=for-the-badge&logo=cisco&logoColor=white)
+
+#### Operating Systems
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <h1 align="left">
   <img height="40px" src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff21366eecda37b3f0c37200dfa871/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" height="30" data-canonical-src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">GitHub Stats :
