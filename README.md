@@ -88,6 +88,7 @@
 #### Development Tools
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 - ![Cisco](https://img.shields.io/badge/Cisco-000000?style=for-the-badge&logo=cisco&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  <!-- Added Docker -->
 
 #### Chatbots
 - ![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-0088cc?style=for-the-badge&logo=telegram&logoColor=white)
